@@ -1,6 +1,8 @@
 # NES Devblog
 
 
+
+
 ## 2022.06.30
 
 Sprite loading and drawing.
