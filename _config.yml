@@ -1,4 +1,2 @@
 remote_theme: SomgBird/jekyll-theme-console
-markdown: kramdown 
-url: 'https://somgbird.github.io/' 
-baseurl: 'somgbird.github.io/' 
+markdown: kramdown
