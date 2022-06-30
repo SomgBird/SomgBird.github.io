@@ -1,6 +1,4 @@
-# NES Devblog
-
-
+# NES Devblog (test)
 
 
 ## 2022.06.30
