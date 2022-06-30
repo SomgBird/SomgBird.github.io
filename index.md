@@ -5,11 +5,11 @@
 
 Sprite loading and drawing.
 
-![Image](img/photo_2022-06-30_18-03-00.jpg | width=200)
+<img src="img/photo_2022-06-30_18-03-00.jpg" width=50% height=50%>
 
 ## 2022.06.22
 
 Default program initialization. Palette setup. Background color change.
 
-[[img/photo_2022-06-22_00-26-33.jpg|width=100]]
+<img src="img/photo_2022-06-22_00-26-33.jpg" width=50% height=50%>
 
