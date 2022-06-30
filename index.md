@@ -11,5 +11,5 @@ Sprite loading and drawing.
 
 Default program initialization. Palette setup. Background color change.
 
-![Image](img/photo_2022-06-22_00-26-33.jpg | width=100)
+[[img/photo_2022-06-22_00-26-33.jpg|width=100]]
 
