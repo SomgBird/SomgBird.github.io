@@ -1,2 +1,4 @@
 remote_theme: SomgBird/jekyll-theme-console
 markdown: kramdown
+plugins:
+  - jekyll-image-size
