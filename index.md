@@ -5,7 +5,8 @@
 
 Sprite loading and drawing.
 
-<img src="{{site.baseurl | prepend: site.url}}img/photo_2022-06-30_18-03-00.jpg" width=30%/>
+{% imagesize /img/photo_2022-06-30_18-03-00.jp:img?width=200 alt='img' %}
+
 
 ## 2022.06.22
 
