@@ -2,7 +2,7 @@
 
 ## 2022.06.04
 
-New NES project: https://github.com/SomgBird/nes-calculator.
+New NES project: [https://github.com/SomgBird/nes-calculator](https://github.com/SomgBird/nes-calculator).
 
 ## 2022.06.30
 
