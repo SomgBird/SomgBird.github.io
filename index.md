@@ -1,5 +1,8 @@
 # NES Devblog (test)
 
+## 2022.06.04
+
+New NES project: https://github.com/SomgBird/nes-calculator.
 
 ## 2022.06.30
 
