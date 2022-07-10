@@ -1,6 +1,13 @@
 # NES Devblog (test)
 
 
+## 2022.07.10
+
+Understand (almost) background drawing.
+
+![image](ing/photo_2022-07-11_00-14-03.jpg)
+
+
 ## 2022.07.07
 
 Testing sprites for calculator app.
