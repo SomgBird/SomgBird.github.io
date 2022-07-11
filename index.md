@@ -1,5 +1,11 @@
 # NES Devblog (test)
 
+# 2022.08.11
+
+Basic calculator layout
+
+![image](img/photo_2022-07-11_17-32-54.jpg)
+
 
 ## 2022.07.10
 
