@@ -1,5 +1,13 @@
 # NES Devblog (test)
 
+
+# 2022.07.11
+
+Joypad input readings and sprite color change when right button pressed.
+
+![image](img/photo_2022-07-19_01-52-35.jpg)
+
+
 # 2022.07.11
 
 Basic calculator layout.
