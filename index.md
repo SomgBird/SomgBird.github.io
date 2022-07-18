@@ -1,7 +1,7 @@
 # NES Devblog (test)
 
 
-# 2022.07.11
+# 2022.07.19
 
 Joypad input readings and sprite color change when right button pressed.
 
