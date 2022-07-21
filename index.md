@@ -1,6 +1,17 @@
 # NES Devblog (test)
 
 
+# 2022.07.22
+
+Now buttons can be chosen by UP, DOWN, LEFT and RIGHT buttons. Chosen button will be recolored to palette number 2.
+
+**TODO**: change selected button only when button released or do not read new inputs until button released so you can only move cursor by one sprite at once.
+
+**TODO**: change unselected button palette to default. 
+
+![image](img/photo_2022-07-22_00-12-54.jpg)
+
+
 # 2022.07.19
 
 Joypad input readings and sprite color change when right button pressed.
