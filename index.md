@@ -1,6 +1,13 @@
 # NES Devblog (test)
 
 
+# 2022.07.24
+
+Proper holden/pressed/released button handling. Palette resetting after cursor moved to another key.
+
+![Screen Recording 2022-07-24 at 23 14 16](https://user-images.githubusercontent.com/33515338/180664601-cb649f6e-5282-4fac-9a42-d6a21686e13b.gif)
+
+
 # 2022.07.22
 
 Now buttons can be chosen by UP, DOWN, LEFT and RIGHT buttons. Chosen button will be recolored to palette number 2.
@@ -14,7 +21,7 @@ Now buttons can be chosen by UP, DOWN, LEFT and RIGHT buttons. Chosen button wil
 
 # 2022.07.19
 
-Joypad input readings and sprite color change when right button pressed.
+Joypad input readings and sprite color change when RIGHT button pressed.
 
 ![image](img/photo_2022-07-19_01-52-35.jpg)
 
