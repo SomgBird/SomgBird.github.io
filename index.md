@@ -5,7 +5,7 @@
 
 Proper holden/pressed/released button handling. Palette resetting after cursor moved to another key.
 
-<img src='https://user-images.githubusercontent.com/33515338/180664601-cb649f6e-5282-4fac-9a42-d6a21686e13b.gif'/>
+<img src='https://raw.githubusercontent.com/SomgBird/somgbird.github.io/main/img/Screen%20Recording%202022-07-24%20at%2023.14.16.gif'/>
 
 
 # 2022.07.22
