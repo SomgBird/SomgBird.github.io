@@ -1,6 +1,16 @@
 # NES Devblog (test)
 
 
+# 2022.07.27
+
+SELECT basic handling.
+
+TODO: handle action buttons instead of prints.
+TODO: add third curcor palette for holding button.
+
+<img src='img/Screen Recording 2022-07-27 at 00.58.20.gif'/>
+
+
 # 2022.07.24
 
 Proper holden/pressed/released button handling. Palette resetting after cursor moved to another key.
