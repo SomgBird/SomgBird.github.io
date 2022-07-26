@@ -6,6 +6,7 @@
 SELECT basic handling.
 
 **TODO**: handle action buttons instead of prints.
+
 **TODO**: add third curcor palette for holding button.
 
 <img src='img/Screen Recording 2022-07-27 at 00.58.20.gif'/>
