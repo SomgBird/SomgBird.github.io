@@ -1,6 +1,11 @@
 # NES Devblog (test)
 
 
+# 2022.07.29
+
+Decimal numbers and pointers are nightmare.
+
+
 # 2022.07.27
 
 SELECT basic handling.
