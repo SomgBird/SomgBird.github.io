@@ -1,6 +1,13 @@
 # NES Devblog (test)
 
 
+# 2022.08.03
+
+Addition operation.
+
+![image](img/photo_2022-08-03_00-06-22.jpg)
+
+
 # 2022.07.29
 
 Decimal numbers and pointers are nightmare.
